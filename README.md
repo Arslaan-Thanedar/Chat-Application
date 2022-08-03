@@ -3,11 +3,11 @@
 
 ## Server Activation : 
 
-<img src="Chat-Application/Server Activation.png">
+<img src="https://github.com/Arslaan-Thanedar/Chat-Application/blob/master/Server%20Activation.png">
 
 ## User Connection :
 
-<img src="Chat-Application/Server User Connection.png">
+<img src="https://github.com/Arslaan-Thanedar/Chat-Application/blob/master/Server%20User%20Connection%20.png">
 
 ## Client Interaction : 
 
