@@ -11,4 +11,4 @@
 
 ## Client Interaction : 
 
-<img src="Chat-Application/Client img.jpeg">
+<img src="https://github.com/Arslaan-Thanedar/Chat-Application/blob/master/Client%20img.jpeg">
