@@ -1,5 +1,5 @@
 import socket
-
+# Comments
 PORT = 5050
 HEADER = 64
 FORMAT = "utf-8"
